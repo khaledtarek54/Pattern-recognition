@@ -1,0 +1,18 @@
+C:\Users\user\AppData\Local\Temporary Projects\PR project\bin\Debug\PR project.exe
+C:\Users\user\AppData\Local\Temporary Projects\PR project\bin\Debug\PR project.pdb
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Debug\PR_project.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Debug\PR_project.actor.resources
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Debug\PR_project.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Debug\PR project.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Debug\PR project.exe
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Debug\PR project.pdb
+C:\Users\user\Desktop\PR project\PR project\bin\Debug\PR project.exe
+C:\Users\user\Desktop\PR project\PR project\bin\Debug\PR project.pdb
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Debug\PR_project.Form1.resources
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Debug\PR_project.PR.resources
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Debug\PR_project.Properties.Resources.resources
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Debug\PR project.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Debug\PR project.exe
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Debug\PR project.pdb
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Debug\PR_project.Form3.resources
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Debug\PR_project.Form4.resources

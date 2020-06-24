@@ -1,0 +1,31 @@
+C:\Users\user\AppData\Local\Temporary Projects\PR project\bin\Release\PR project.exe
+C:\Users\user\AppData\Local\Temporary Projects\PR project\bin\Release\PR project.pdb
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Release\PR_project.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Release\PR_project.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Release\PR project.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Release\PR project.exe
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Release\PR project.pdb
+C:\Users\user\AppData\Local\Temporary Projects\PR project\obj\x86\Release\PR_project.actor.resources
+C:\Users\user\documents\visual studio 2010\Projects\PR project\PR project\obj\x86\Release\PR project.exe
+C:\Users\user\documents\visual studio 2010\Projects\PR project\PR project\obj\x86\Release\PR project.pdb
+C:\Users\fawzy ahmed\Desktop\PR project\PR project\bin\Release\PR project.exe
+C:\Users\fawzy ahmed\Desktop\PR project\PR project\bin\Release\PR project.pdb
+C:\Users\fawzy ahmed\Desktop\PR project\PR project\obj\x86\Release\PR project.csprojAssemblyReference.cache
+C:\Users\fawzy ahmed\Desktop\PR project\PR project\obj\x86\Release\PR_project.Form1.resources
+C:\Users\fawzy ahmed\Desktop\PR project\PR project\obj\x86\Release\PR_project.Properties.Resources.resources
+C:\Users\fawzy ahmed\Desktop\PR project\PR project\obj\x86\Release\PR project.csproj.GenerateResource.cache
+C:\Users\fawzy ahmed\Desktop\PR project\PR project\obj\x86\Release\PR project.csproj.CoreCompileInputs.cache
+C:\Users\fawzy ahmed\Desktop\PR project\PR project\obj\x86\Release\PR project.exe
+C:\Users\fawzy ahmed\Desktop\PR project\PR project\obj\x86\Release\PR project.pdb
+C:\Users\fawzy ahmed\Desktop\PR project\PR project\obj\x86\Release\PR_project.actor.resources
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Release\PR project.exe
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Release\PR project.pdb
+C:\Users\user\Desktop\PR project\PR project\bin\Release\PR project.exe
+C:\Users\user\Desktop\PR project\PR project\bin\Release\PR project.pdb
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Release\PR_project.Form1.resources
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Release\PR_project.Properties.Resources.resources
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Release\PR project.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Release\PR_project.PR.resources
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Release\PR project.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Release\PR_project.Form3.resources
+C:\Users\user\Desktop\PR project\PR project\obj\x86\Release\PR_project.Form4.resources
